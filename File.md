@@ -6,3 +6,4 @@
 **Mergening branches**
 
 **Conflict mergening branches**
+# Conflicts occur when commits claim a common workspace
