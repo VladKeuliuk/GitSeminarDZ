@@ -1,16 +1,16 @@
 # Homework
 
 
-## Exerise 1
+## Exercise 1
 
 
 
-## Exerise 2
+## Exercise 2
 
 
 
-## Exersise 3
+## Exercise 3
 
 
 
-## Exersise 4 
+## Exercise 4 
